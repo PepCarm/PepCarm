@@ -26,8 +26,13 @@
   <a href="https://www.linkedin.com/in/jose-antonio-carmona-23a231191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joseacarmona1988@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PepCarm&show_icons=true&locale=en&theme=gruvbox" alt="pepcarm" /></p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepcarm&langs_count=3&theme=tokyonight"/></p>
 <br>
+
+<div align="center">
+  <a href="https://github.com/pepcarm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PepCarm&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepcarm&langs_count=3&theme=tokyonight"/>
+</div>
+
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
