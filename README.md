@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center">A fullstack developer, data analyst and data scientist</h3>
 
-<h5>I’m currently learning python,java, tableau<h5>
+<h5>I’m currently learning python, java, tableau<h5>
 <h5>I am studying technical programming at the National Technological University (UTN)</h5>
 
 <!-- **PepCarm/PepCarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
