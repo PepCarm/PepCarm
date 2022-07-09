@@ -20,6 +20,7 @@
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="64" height="64"/>
       <img src="https://img.icons8.com/color/344/tableau-software.png" alt="docker" width="60" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://img.icons8.com/color/344/office-365.png" alt="microsoftOffice"width="55" height="65"/>
 </p>
 
 <div>
